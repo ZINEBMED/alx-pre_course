@@ -1,1 +1,1 @@
-second readme for 0x01-git
+Im a software engineer
